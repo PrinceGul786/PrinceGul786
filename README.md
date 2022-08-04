@@ -1,7 +1,7 @@
-(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Shahzado Gul</h1>
 <h3 align="center">A passionate Full Stack developer,I have also expertise in advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png">
 - 🔭 I’m currently working on **Hand Tracking Detector**
 
 - 🌱 I’m currently learning **Advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl**
