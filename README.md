@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **shahzadogulabro786@gmail.com**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrinceGul786&theme=onedark)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@shahzadogul786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahzadogul786" height="30" width="40" /></a>
