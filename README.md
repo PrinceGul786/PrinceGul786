@@ -1,6 +1,7 @@
+(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shahzado Gul</h1>
 <h3 align="center">A passionate Full Stack developer,I have also expertise in advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl</h3>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 🔭 I’m currently working on **Hand Tracking Detector**
 
 - 🌱 I’m currently learning **Advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl**
