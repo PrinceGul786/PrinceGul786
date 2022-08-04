@@ -4,6 +4,10 @@
 <h3 align="center"> A passionate Full Stack developer,I have also expertise in advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl</h3>
 <img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png">
 
+
+<br>
+<br>
+
 - 🔭 I’m currently working on **Hand Tracking Detector**
 
 - 🌱 I’m currently learning **Advance Python, Web Development,Django Frame Work, Machine Learning, Deep Learning, Cyber Secuirity,Oracle Database, My SQl**
