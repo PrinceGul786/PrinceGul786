@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Linux, git, ansible, Docker, Kubernetes, Jenkins, laravel Frame Work, My SQL**
 
-- 👯 I’m looking to collaborate on **Devops Engineer**
+- 👯 I’m looking to collaborate on **DevOps Engineer**
 
 - 🤝 I’m looking for help with **AasanBooking Website**
 
-- 💬 Ask me about **Devops, WEb Development**
+- 💬 Ask me about **DevOps, Web Development**
 
 - 📫 How to reach me **shahzadogulabro786@gmail.com**
 
@@ -34,4 +34,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegul786&show_icons=true&locale=en&layout=compact" alt="princegul786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princegul786&show_icons=true&locale=en" alt="princegul786" /></p>
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)](https://linux.org/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white)](https://ansible.com/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&logoColor=white)](https://jenkins.io/)
+[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/)
 
