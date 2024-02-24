@@ -1,22 +1,22 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Shahzado Gul</h1>
 <h2 align= "center"> About me</h2>
-<h3 align="center"> A passionate FrontEnd developer, I have also expertise in advanced Python, Web Development, Django framework, laravel Frame Work, Oracle Database, My SQl</h3>
+<h3 align="center"> "DevOps Engineer proficient in Linux, Git, Jenkins, Maven, Docker, and Kubernetes. Expert in Laravel for robust backend web development. Committed to driving digital innovation through streamlined processes."</h3>
 <img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png">
 
 
 <br>
 <br>
 
-- 🔭 I’m currently working on **Front End Development**
+- 🔭 I’m currently working on **DevOps Engineer**
 
-- 🌱 I’m currently learning **HTML, CSS, and CSS Framework tailwind CSS, Advanced Python, Web Development, laravel Frame Work, My SQl**
+- 🌱 I’m currently learning **Linux, git, ansible, Docker, Kubernetes, Jenkins, laravel Frame Work, My SQL**
 
-- 👯 I’m looking to collaborate on **Front End Development**
+- 👯 I’m looking to collaborate on **Devops Engineer**
 
 - 🤝 I’m looking for help with **AasanBooking Website**
 
-- 💬 Ask me about **Advance Python, Front End  Development**
+- 💬 Ask me about **Devops, WEb Development**
 
 - 📫 How to reach me **shahzadogulabro786@gmail.com**
 
