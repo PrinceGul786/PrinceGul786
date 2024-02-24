@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://unsplash.com/photos/a-few-small-metal-objects-CPvnvwfBU_o)]
 <h1 align="center">Shahzado Gul</h1>
 <h2 align= "center"> About me</h2>
 <h3 align="center"> "DevOps Engineer proficient in Linux, Git, Jenkins, Maven, Docker, and Kubernetes. Expert in Laravel for robust backend web development. Committed to driving digital innovation through streamlined processes."</h3>
